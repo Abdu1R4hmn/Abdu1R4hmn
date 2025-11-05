@@ -28,9 +28,8 @@ const Abdu1R4hmn = {
 ```
 
 ### Featured Projects
-- [CTF Web Platform Frontend](https://github.com/Abdu1R4hmn/Capture-The-Flag-Frontend) – A platform to teach cybersecurity through challenges (Frontend).
-- [CTF Web Platform Backend](https://github.com/Abdu1R4hmn/Capture-The-Flag-Backend) – A platform to teach cybersecurity through challenges (Backend).
-- [E-commerce Project](https://github.com/Abdu1R4hmn/AppDevProject) – Camera gear E-commerce website.
+- [CTF Web Platform Frontend](https://github.com/Abdu1R4hmn/Capture-The-Flag-Website) – A platform to teach cybersecurity through challenges (Frontend).
+- [E-commerce Project](https://github.com/Abdu1R4hmn/E-Commerce-Camera-Gear-Store) – Camera gear E-commerce website.
 
 
 
