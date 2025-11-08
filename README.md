@@ -3,9 +3,11 @@
 I’m a backend web developer specializing in **Java & Spring Boot**.  
 I enjoy building robust APIs, creating secure backend systems, and exploring cybersecurity and AI.
 
-[![Gmail](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:Abdulrahman.o.Turky@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-turky-2b61762b6/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/your-profile)
+<p align="left">
+<a href="mailto:Abdulrahman.o.Turky@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/abdulrahman-turky-2b61762b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/your-profile"><img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode" alt="LeetCode"/></a>
+</p>
 
 ---
 
@@ -13,21 +15,21 @@ I enjoy building robust APIs, creating secure backend systems, and exploring cyb
 
 **Languages**  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/> Java
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL"/> MySQL
+  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/><figcaption>Java</figcaption></figure>
+  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/><figcaption>MySQL</figcaption></figure>
 </p>
 
 **Frameworks**  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" title="Spring Boot"/> Spring Boot
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/> React
+  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/><figcaption>Spring Boot</figcaption></figure>
+  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/><figcaption>React</figcaption></figure>
 </p>
 
 **Tools**  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/> Git
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" alt="Postman" width="40" height="40" title="Postman"/> Postman
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40" title="Swagger"/> Swagger UI
+  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/><figcaption>Git</figcaption></figure>
+  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" alt="Postman" width="60" height="60"/><figcaption>Postman</figcaption></figure>
+  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="60" height="60"/><figcaption>Swagger UI</figcaption></figure>
 </p>
 
 ---
