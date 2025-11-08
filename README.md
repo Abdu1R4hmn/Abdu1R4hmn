@@ -3,8 +3,6 @@
 I’m a backend web developer specializing in **Java & Spring Boot**.  
 I enjoy building robust APIs, creating secure backend systems, and exploring cybersecurity and AI.
 
-### 📫 Connect with Me
-
 [![Gmail](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:Abdulrahman.o.Turky@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-turky-2b61762b6/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/your-profile)
@@ -39,9 +37,5 @@ I enjoy building robust APIs, creating secure backend systems, and exploring cyb
 - [**CTF Web Platform**](https://github.com/Abdu1R4hmn/Capture-The-Flag-Website)  
   A web platform for interactive cybersecurity challenges where users can solve puzzles, submit flags, and track progress.
 
-- [**Financial Tracker Backend**](#)  
-  An application to track personal finances, manage income and expenses, and generate financial insights.
-
 - [**Camera E-Commerce Backend**](https://github.com/Abdu1R4hmn/E-Commerce-Camera-Gear-Store)  
   An e-commerce platform for browsing, ordering, and managing camera gear products with customer and admin functionalities.
-
