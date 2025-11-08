@@ -13,23 +13,14 @@ I enjoy building robust APIs, creating secure backend systems, and exploring cyb
 
 ### 💻 Technologies
 
-**Languages**  
 <p align="left">
-  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/><figcaption>Java</figcaption></figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/><figcaption>MySQL</figcaption></figure>
-</p>
-
-**Frameworks**  
-<p align="left">
-  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/><figcaption>Spring Boot</figcaption></figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/><figcaption>React</figcaption></figure>
-</p>
-
-**Tools**  
-<p align="left">
-  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/><figcaption>Git</figcaption></figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" alt="Postman" width="60" height="60"/><figcaption>Postman</figcaption></figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="60" height="60"/><figcaption>Swagger UI</figcaption></figure>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="50"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="50"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" height="50"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="50"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="50"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="50"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger UI" height="50"/>
 </p>
 
 ---
