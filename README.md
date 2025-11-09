@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2c1a4d,100:5c2ca5&height=180&section=header&text=Abdulrahman%20Turky&fontColor=ffffff&fontSize=45&fontAlignY=35)
 
-Hi there! 👋 I’m **passionate about building backend systems 🖥️**, exploring new technologies 💡, and tackling interesting challenges. 🔐    
+Hi there! 👋 I’m **passionate about building backend systems 🖥️**, exploring new technologies 💡, and tackling interesting challenges. 🔐 <>
 I love **connecting with fellow developers**, sharing knowledge 🌐, and **continuously learning 🤖** along the way.
 
 <p align="left">
@@ -12,41 +12,50 @@ I love **connecting with fellow developers**, sharing knowledge 🌐, and **cont
 
 ### 💻 Technologies
 
-
-  <strong><i>Backend:</i><strong>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/>
+<div>
+  <strong><i>Backend:</i><strong>&nbsp;&nbsp;
   |
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+  |&nbsp;&nbsp;|
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
+  |&nbsp;&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-  |
+  |&nbsp;&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></code>
+  |&nbsp;&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
-  |
+  | &nbsp;&nbsp;|
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
-
-
+  |
+</div>
 <br>
 
 
 <div >
-<strong><i>Frontend:</i></strong>
+<strong><i>Frontend:</i></strong>&nbsp;&nbsp;
+  |
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-  |
+  |&nbsp;&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+|&nbsp;&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-  |
+  |&nbsp;&nbsp;|
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+  |
 </div>
 
 <br>
 
 
 <div >
-  <strong><i>Tools:</i></strong>
+  <strong><i>Other Tools:</i></strong>
+	&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	|&nbsp;&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-  |
+  |&nbsp;&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
+	|
 </div>
 
 ---
