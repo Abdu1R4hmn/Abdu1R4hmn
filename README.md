@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2c1a4d,100:5c2ca5&height=180&section=header&text=Abdulrahman%20Turky&fontColor=ffffff&fontSize=45&fontAlignY=35)
 
-Hi there! 👋 I’m **passionate about building backend systems 🖥️**, exploring new technologies 💡, and tackling interesting challenges. 🔐 <>
-I love **connecting with fellow developers**, sharing knowledge 🌐, and **continuously learning 🤖** along the way.
+Hi there! 👋 I’m **passionate about building backend systems 🖥️**, exploring new technologies 💡, and tackling interesting challenges. 🔐 <br>
+I love **connecting with fellow developers**, sharing knowledge 🌐, and **continuously learning** along the way.
 
 <p align="left">
 <a href="mailto:Abdulrahman.o.Turky@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
