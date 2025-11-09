@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Abdulrahman%20Turky&reversal=true&fontAlign=50&fontAlignY=41&animation=twinkling&stroke=blue&desc=Backend%20Web%20Development&descAlign=67&descAlignY=54&strokeWidth=1)
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0d0d,40:1c1a4d,100:4c2ca6&text=Abdulrahman%20Turky&reversal=true&fontColor=ffffff&fontAlign=50&fontAlignY=41&animation=twinkling&stroke=2c1a4d&desc=Backend%20Web%20Development&descAlign=67&descAlignY=54&strokeWidth=.5&descSize=20)
+
 
 Hi there! 👋 I’m **passionate about building backend systems 🖥️**, exploring new technologies 💡, and tackling interesting challenges. <br>
 I love **connecting with fellow developers**, sharing knowledge 🌐, and **continuously learning** along the way.
@@ -24,9 +26,7 @@ I love **connecting with fellow developers**, sharing knowledge 🌐, and **cont
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></code>
   |&nbsp;&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
-  | &nbsp;&nbsp;|
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
-  |
+  | 
 </div>
 <br>
 
@@ -39,8 +39,6 @@ I love **connecting with fellow developers**, sharing knowledge 🌐, and **cont
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 |&nbsp;&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-  |&nbsp;&nbsp;|
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
   |
 </div>
 
@@ -55,7 +53,11 @@ I love **connecting with fellow developers**, sharing knowledge 🌐, and **cont
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
   |&nbsp;&nbsp;|
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
-	|
+	|&nbsp;&nbsp;|
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
+  |&nbsp;&nbsp;|
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+  |
 </div>
 
 ---
