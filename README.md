@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdulrahman%20Turky&fontColor=ffffff&fontSize=45&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b0082,100:8000ff&height=180&section=header&text=Abdulrahman%20Turky&fontColor=ffffff&fontSize=45&fontAlignY=35)
 
-
-I’m a backend web developer specializing in **Java & Spring Boot**.  
-I enjoy building robust APIs, creating secure backend systems, and exploring cybersecurity and AI.
+> 👋 Hi there! I’m **passionate about building backend systems 🖥️**, exploring new technologies 💡, and tackling interesting challenges. 🔐 I love **connecting with fellow developers**, sharing knowledge 🌐, and **continuously learning 🤖** along the way.
 
 <p align="left">
 <a href="mailto:Abdulrahman.o.Turky@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
