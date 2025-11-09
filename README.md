@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b0082,100:8000ff&height=180&section=header&text=Abdulrahman%20Turky&fontColor=ffffff&fontSize=45&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2c1a4d,100:5c2ca5&height=180&section=header&text=Abdulrahman%20Turky&fontColor=ffffff&fontSize=45&fontAlignY=35)
 
-> 👋 Hi there! I’m **passionate about building backend systems 🖥️**, exploring new technologies 💡, and tackling interesting challenges. 🔐 I love **connecting with fellow developers**, sharing knowledge 🌐, and **continuously learning 🤖** along the way.
+Hi there! 👋 I’m **passionate about building backend systems 🖥️**, exploring new technologies 💡, and tackling interesting challenges. 🔐    
+I love **connecting with fellow developers**, sharing knowledge 🌐, and **continuously learning 🤖** along the way.
 
 <p align="left">
 <a href="mailto:Abdulrahman.o.Turky@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -11,10 +12,10 @@
 
 ### 💻 Technologies
 
-<div>
+
   <strong><i>Backend:</i><strong>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/>
   |
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
   |
@@ -22,7 +23,7 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
   |
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
-</div>
+
 
 <br>
 
